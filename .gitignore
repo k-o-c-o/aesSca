@@ -1,0 +1,23 @@
+# Python virtual environment
+.venv/
+venv/
+
+# Dataset
+data/
+
+# All generated results and outputs
+notebooks/results/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Secrets
+.env
+.env.*
+
+# IDE files
+.vscode/
